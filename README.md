@@ -84,6 +84,6 @@ More dashboard projects like this are on the way as the learning continues.
 
 ## 📬 Connect
 
-**Author:** [akmayank94](https://github.com/saloninayyar25)
+**Author:** [Saloni Nayyar](https://github.com/saloninayyar25)
 
 ⭐ If you're on a similar learning journey, feel free to explore, fork, or follow along!
