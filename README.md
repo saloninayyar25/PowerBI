@@ -31,9 +31,9 @@ Each `.pbix` file is self-contained and named by day, so you can open any file a
 
 ---
 
-## 📅 Daily Progress Log
+## 📅 Topics Covered
 
-| Day | Focus Area |
+| Sno. | Focus Area |
 |-----|-----------|
 | 1 | Getting started with Power BI |
 | 2–4 | Formatting fundamentals & practice |
@@ -52,14 +52,6 @@ Each `.pbix` file is self-contained and named by day, so you can open any file a
 | 17 | DATESBETWEEN DAX function |
 | 18 | Time Intelligence — MTD, QTD, YTD |
 | **19** | 🚀 **Mobile Sales Interactive Dashboard** — first complete end-to-end dashboard |
-
----
-
-## 🏆 Milestone: Day 19 — Mobile Sales Interactive Dashboard
-
-After 18 days of building visual-by-visual and concept-by-concept, Day 19 marks the first project that pulls everything together — formatting, Power Query, custom visuals, slicers, and DAX measures — into a single **interactive Mobile Sales dashboard**.
-
-More dashboard projects like this are on the way as the learning continues.
 
 ---
 
