@@ -14,6 +14,7 @@ This repo is my personal **Power BI learning diary**. Every file here represents
 
 The goal is simple: **learn consistently, document everything, and turn this log into a portfolio** I can show recruiters and use as a reference for future projects.
 
+
 ---
 
 ## 🗂️ Repository Structure
