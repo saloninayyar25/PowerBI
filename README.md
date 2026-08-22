@@ -10,7 +10,7 @@
 
 ## 🎯 About This Repository
 
-This repo is my personal **Power BI learning diary**. Every file here represents a day of hands-on practice — no theory-only notes, just real `.pbix` files built while learning formatting, visuals, Power Query, and DAX from the ground up.
+This repo is my personal **Power BI learning diary**. Every file here represents a day of hands-on practice — no theory-only notes, just real `.pbix` files built while learning formatting, visuals, Power Query, and DAX from the ground up. 
 
 The goal is simple: **learn consistently, document everything, and turn this log into a portfolio** I can show recruiters and use as a reference for future projects.
 
